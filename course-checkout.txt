@@ -1,0 +1,10 @@
+     AWS               COVERING                     DEVOP                          COVERING
+_____________________________________________________________________________________________________
+EC2-CONSOL              YES                       GIT-HUB                           YES
+VPC                     YES                       BUILD(MAVEN ,ANGULAR, PHP)        YES
+ALRAM                   YES                       TEST                              NO
+CLOUDWATCH              YES                       RELEASE                           NO
+ALRAM                   YES                       DEPLOYE                           YES
+EBS                     YES                       OPERATE                           NO
+ABS                     YES                                                
+S3                      YES
